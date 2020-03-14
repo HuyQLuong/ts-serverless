@@ -29,8 +29,8 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
-      ref_email: asdfsdfs
+      recaptcha_site_key: asdfsdf
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -87,8 +87,8 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
-      ref_email: asdfsdfs
+      recaptcha_site_key: asdfsdf
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -145,8 +145,8 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
-      ref_email: asdfsdfs
+      recaptcha_site_key: asdfsdf
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -203,8 +203,8 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
-      ref_email: asdfsdfs
+      recaptcha_site_key: asdfsdf
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -261,8 +261,8 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
-      ref_email: asdfsdfs
+      recaptcha_site_key: asdfsdf
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
@@ -319,8 +319,8 @@ functions:
       query_pretty_url: "true"
       read_timeout: 10s
       recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-      recaptcha_site_key: ajkfksjdbf
-      ref_email: asdfsdfs
+      recaptcha_site_key: asdfsdf
+      ref_email: sadfsdfs
       ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
       signature_cookie_name: si
       smtp_email: smtp.gmail.com
