@@ -2,8 +2,8 @@ environment:
   app_name: Telar Social
   db_type: mongo
   header_cookie_name: he
-  mongo_database: mongodb+srv://telar:<password>@cluster0-jayzq.mongodb.net/test?retryWrites=true&w=majority
-  mongo_host: mongodb+srv://telar_user:%s@cluster0-l6ojz.mongodb.net/test?retryWrites=true&w=majority
+  mongo_database: test
+  mongo_host: mongodb+srv://huyluong:%s@cluster0.gar02.mongodb.net/<dbname>?retryWrites=true&w=majority
   mongo_pwd_path: /var/openfaas/secrets/mongo-pwd
   mongo_user: mongodb+srv://telar:<password>@cluster0-jayzq.mongodb.net/test?retryWrites=true&w=majority
   org_avatar: https://avatars3.githubusercontent.com/u/43268620
@@ -16,8 +16,8 @@ environment:
   public_key_path: /var/openfaas/secrets/key.pub
   read_timeout: 10s
   recaptcha_key_path: /var/openfaas/secrets/recaptcha-key
-  recaptcha_site_key: asdfsdf
-  ref_email: sadfsdfs
+  recaptcha_site_key: 6Lc2PaQZAAAAAEA-2Hg86MaOfjp415eFuGBNIQRI
+  ref_email: luongquochuy1995@gmail.com
   ref_email_pass_path: /var/openfaas/secrets/ref-email-pass
   signature_cookie_name: si
   smtp_email: smtp.gmail.com
